@@ -1,0 +1,73 @@
+STUDENT ACCOUNT 1
+-------------------
+Username: JordanStu  (OOAD)
+FullName: Jordan Hii Shou Sheng
+Password: JordanStu
+1201101060@student.mmu.edu.my
+
+STUDENT ACCOUNT 2
+-------------------
+Username: WongStu   (OS)
+FullName: Wong Jia Xian
+Password: WongStu
+1201100886@student.mmu.edu.my
+
+STUDENT ACCOUNT 3
+-------------------
+Username: LimStu   (OOAD)
+FullName: Lim Wei Pang
+Password: LimStu
+1201100622@student.mmu.edu.my
+
+LECTURER ACCOUNT 1
+-------------------
+Username: KuLec      (OOAD)  
+FullName: Ku Day Chyi
+Password: KuLec
+dcku@mmu.edu.my
+
+LECTURER ACCOUNT 2
+-------------------
+Username: NgLec     (OS)  
+FullName: Ng Hu
+Password: NgLec
+nghu@mmu.edu.my
+
+ADMIN ACCOUNT 1 (Default) - cannot be deleted
+-------------------
+Username: admin   // Admin
+Password: admin123
+
+
+ADMIN ACCOUNT 2
+-------------------
+Username: Demo   // Demo
+Password: Demo
+Demo@mmu.edu.my
+
+Specialization & project
+--------------
+OOAD
+	- OOAD_FYP   
+		(Active, OOAD, Jordan, Ku Day Chyi, OOAD_desc, OOAD_comment)
+	- OOAD_FYP_2 
+Operating System
+	- OS_FYP   
+		(Active, OS, Wong, Ng Hu, OS_desc, OS_comment)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
