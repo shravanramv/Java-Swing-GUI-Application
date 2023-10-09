@@ -13,7 +13,7 @@ projects offered by the associated lecturers in their view board, which is sorte
 students with the same specialization can view the projects. The lecturers can view all the projects they
 are offering and assign/unassign students to their projects. One project can be assigned to a student
 only. The lecturers can also activate/deactivate their projects to make them visible or hidden from the
-students&#39; view board.
+student's view board.
 The administrator can create more administrator accounts, and all administrators can view and leave
 comments on all the projects, and delete, or add projects. They can also view reports in terms of
 ● List of projects entered the system,
