@@ -1,4 +1,4 @@
-# Jawa-Swing-GUI-Application
+# Java-Swing-GUI-Application
 
 The MMU online mini-project management system is a web-based application designed to assist MMU
 lecturers and students with their mini-project assignments. It allows lecturers to upload, publish, and
@@ -34,7 +34,7 @@ includes features such as user authentication and authorization, data management
 well as an intuitive user interface for easy navigation. This program will be a valuable tool for both
 lecturers and students to manage their mini-project assignments effectively.
 
-Assumption
+# Assumption
 
 - Users will have to register and log in to the system to access its features and functionality.
 - The system will be able to handle many users and projects efficiently.
